@@ -1,0 +1,83 @@
+body{
+    margin: 40px;
+}
+header{
+    background-color: antiquewhite;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 45px;
+    padding-right: 45px;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 3px;
+}
+nav a {
+color: bisque;
+font-size: 25px;
+font-family: 'Courier New', Courier, monospace;
+text-decoration: none;
+}
+main {
+    background-color: blanchedalmond;
+    height: 600px;
+}
+nav a:hover{
+    color: black;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.Divpai {
+    display: flex;
+    justify-content: space-between;
+}
+.Divfilho1 {
+    background-color: brown;
+    height: 300px;
+    width: 400px;
+    background-image: url(download\ \(1\).jfif)
+}
+.Divfilho2 {
+    background-color: azure;
+    height: 300px;
+    width: 400px;
+    background-image: url(ilha\ 2.jfif);
+    background-size: cover;
+}
+.Divfilho3 {
+    background-color: aquamarine;
+    height: 300px;
+    width: 400px;
+    background-image: url(ilha\ 3.jfif);
+    background-size: cover;
+}
+
+
+footer {
+    background-color: bisque;
+    height: 40px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 3px;
+}
+nav a {
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+nav a:hover {
+    color: black;
+}
